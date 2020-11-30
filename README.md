@@ -1,4 +1,4 @@
-## :globe_with_meridians: インストール方法
+## :grapes: インストール方法
 1.このリポジトリを複製<br>
 `$ git clone https://github.com/yumeyuniko/furima-28113.git`
 
