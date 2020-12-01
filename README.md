@@ -30,3 +30,31 @@
 |セキュリティコード|CVC: 123|  
 |有効期限|登録時より未来|  
 
+## ■ Summary
+- This is a clone website of Japanese EC site.
+- We did agile software development with a team of 4
+
+## ■ Function
+
+* credit-card registration(PayJP)
+
+
+## ■ Language
+### server-side
+* Ruby 2.6.5
+* 
+### front-end
+
+
+## ■ Flamework
+* Ruby on Rails 6.0.0
+
+## ■ Database
+* MySQL 5.6.50
+
+## ■ Infrastructure
+* AWS EC2
+* AWS S3
+
+## ■ Deploy
+* automated deployment by capistrano
