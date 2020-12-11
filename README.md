@@ -58,3 +58,7 @@
 
 ## ■ Deploy
 * automated deployment by capistrano
+
+test
+
+test２
