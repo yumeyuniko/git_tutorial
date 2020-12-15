@@ -19,6 +19,8 @@
 
 
 
+[![Image from Gyazo](https://i.gyazo.com/3f34889a9a0d994bff0343c306fb639b.gif)](https://gyazo.com/3f34889a9a0d994bff0343c306fb639b)
+
 
 |入力内容 | 備考 | 
 | :--- | :---: | 
@@ -63,4 +65,3 @@
 
 
 
-[![Image from Gyazo](https://i.gyazo.com/3f34889a9a0d994bff0343c306fb639b.gif)](https://gyazo.com/3f34889a9a0d994bff0343c306fb639b)
