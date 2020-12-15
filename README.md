@@ -22,17 +22,16 @@
 
 |入力内容 | 備考 | 
 | :--- | :---: | 
-| フリマアプリのURL | https://furima-28113.herokuapp.com/ | 
+| フリマアプリのURL | http://52.196.164.12/ | 
 | Basic認証のIDとパスワード| ID:admin  / password:2222 | 
-| 出品者用のメールアドレスとパスワード| :e-mail: seller_user@gmail.com   :key:111aaa | 
-| 購入者用のメールアドレスとパスワード| :e-mail: buyer_user@gmail.com   :key:111aaa | 
+| 出品者用のメールアドレスとパスワード| :e-mail: sample@gmail.com   :key:111aaa | 
+| 購入者用のメールアドレスとパスワード| :e-mail: sample1@gmail.com   :key:111aaa | 
 |購入用カードの番号・期限・セキュリティコード| カード番号 :4242424242424242 |  
 |セキュリティコード|CVC: 123|  
 |有効期限|登録時より未来|  
 
 ## ■ Summary
-- This is a clone website of Japanese EC site.
-- We did agile software development with a team of 4
+
 
 ## ■ Function
 
@@ -59,6 +58,7 @@
 ## ■ Deploy
 * automated deployment by capistrano
 
-test
+[![Image from Gyazo](https://i.gyazo.com/0ccc44629dd5ee466c92ae70cbbdd123.png)](https://gyazo.com/0ccc44629dd5ee466c92ae70cbbdd123)
 
-test２
+
+[![Image from Gyazo](https://i.gyazo.com/3f34889a9a0d994bff0343c306fb639b.gif)](https://gyazo.com/3f34889a9a0d994bff0343c306fb639b)
