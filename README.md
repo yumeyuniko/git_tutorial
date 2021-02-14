@@ -1,4 +1,7 @@
 ## :grapes: インストール方法
+test
+
+
 1.このリポジトリを複製<br>
 `$ git clone https://github.com/yumeyuniko/furima-28113.git`
 
@@ -59,9 +62,12 @@
 ## ■ Deploy
 * automated deployment by capistrano
 
+
+
+
 [![Image from Gyazo](https://i.gyazo.com/0ccc44629dd5ee466c92ae70cbbdd123.png)](https://gyazo.com/0ccc44629dd5ee466c92ae70cbbdd123)
 
 
 
 
- ![d390713e26def0c647798de90f3a5dc4](https://gyazo.com/3f34889a9a0d994bff0343c306fb639b.gif)
+[![Image from Gyazo](https://i.gyazo.com/3f34889a9a0d994bff0343c306fb639b.gif)](https://gyazo.com/3f34889a9a0d994bff0343c306fb639b)
